@@ -16,7 +16,7 @@ const routes = [
 ];
 
 const router = createRouter({
-    history: createWebHistory(),
+    history: createWebHashHistory(),   // was: createWebHistory(), which gave issues on deployment
     routes,
 });
 
