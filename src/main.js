@@ -5,7 +5,7 @@ import App from './App.vue';
 
 import PrimeVue from 'primevue/config';
 
-import 'primevue/resources/themes/md-dark-indigo/theme.css';
+import 'primevue/resources/themes/arya-blue/theme.css';  //saga-blue for light; arya- or vela-blue for dark
 import 'primevue/resources/primevue.min.css';
 import 'primeicons/primeicons.css';          
 
